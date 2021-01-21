@@ -85,4 +85,4 @@ Code envoie de mail :
 (https://stackoverflow.com/questions/3362600/how-to-send-email-attachments)
 
 Code consultation mail :
-(https://www.thepythoncode.com/article/reading-emails-in-python)
+(https://www.thepythoncode.com/article/reading-emails-in-python) 
