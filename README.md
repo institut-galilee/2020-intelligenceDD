@@ -8,9 +8,8 @@ Vidéo :
 
 
 Membres :
-• Papa Madiodio Dieng ( papamadiodio.dieng@edu.univ-
-paris13.fr)
-• Djermani Aziz (aziz.djermani@edu.univ-paris13.fr)
+Papa Madiodio Dieng ( papamadiodio.dieng@edu.univ-paris13.fr)
+Djermani Aziz (aziz.djermani@edu.univ-paris13.fr)
 
 
 
