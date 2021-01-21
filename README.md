@@ -54,17 +54,17 @@ automatiquement en cas de panne internet.
 
 Composants :
 
-Matrice Led RGB 16*32
-Raspberry pi 3 model B+
-Caméra Raspberry pi
-Capteur de température et d’humidité DHT11
-Photorésistance
-Détecteur de mouvement Framboise Pi
-WS2812b Ruban led
-Fils
-Câbles d’alimentations
-Carton
-Arduino Uno
+Matrice Led RGB 16*32; 
+Raspberry pi 3 model B+;
+Caméra Raspberry pi;
+Capteur de température et d’humidité DHT11;
+Photorésistance;
+Détecteur de mouvement Framboise Pi;
+WS2812b Ruban led;
+Fils;
+Câbles d’alimentations;
+Carton;
+Arduino Uno;
 
 
 
